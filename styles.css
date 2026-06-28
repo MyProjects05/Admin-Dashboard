@@ -22,11 +22,11 @@ h4{
 
 p{
     margin: 0px 0.7vw 0px 0.7vw;
-    font-size: small;
+    font-size: medium;
     font-weight: 300;
 }
 h1{
-    font-size: small;
+    font-size: large;
     margin: 5px 5px 5px 7px;
 }
 .nav{
@@ -271,7 +271,7 @@ img[src = "monitor-dashboard.svg"]{
 }
 
 .an > p{
-    font-size:x-small;
+    font-size: medium;
     padding: 0.2vh 0.2vw;
     border-bottom: 1px solid grey;
 }
@@ -283,6 +283,7 @@ img[src = "monitor-dashboard.svg"]{
 h6{
     margin-top: 5px;
     margin-bottom: 5px;
+    font-size: large;
 }
 
 .announcement img{
